@@ -1,2 +1,3 @@
 # Stock_Market_Prediction_Using_ML-
-Summer of Code IIT Bombay Project
+This is Summer_of_Code Project of Summers-2022
+
