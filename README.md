@@ -9,4 +9,4 @@ This was a 8-week long project in which we are supposed to learn Machine Learnin
 Each week have perticuler assignement to complete after learning.
 I have covered all the data files and code in my folders.
 
-
+Detail Explanation of About Final Project (Main Project) is given in the final project folder.
