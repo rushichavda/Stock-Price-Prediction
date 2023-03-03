@@ -1,4 +1,4 @@
-# Stock_Market_Prediction_Using_ML-
+# Stock_Price_Prediction using ARIMA Model
 This is Summer_of_Code Project of Summers-2022
 
 This project aims to get hands-on on ML, so it starts from basic things like pandas, numpy etc.
